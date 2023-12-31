@@ -10,10 +10,8 @@ For more in-depth information about Flutter development, refer to the [online do
 
 ## Screenshots
 
-
-
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![image](https://github.com/Rohan-Navale/Roll-Dice-App/assets/108330627/bbf43a18-4b37-4af0-9888-3c901c0e3057)
+![image](https://github.com/Rohan-Navale/Roll-Dice-App/assets/108330627/a27a3edd-1d19-4a2b-a60c-1ddd13d30e7f)
 
 ## Features
 
