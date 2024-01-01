@@ -10,10 +10,13 @@ For more in-depth information about Flutter development, refer to the [online do
 
 ## Screenshots
 
+![image](https://github.com/Rohan-Navale/Roll-Dice-App/assets/108330627/6cb5a460-f46c-4a01-b1c5-ec8ab264a496)
 
+![image](https://github.com/Rohan-Navale/Roll-Dice-App/assets/108330627/bf821383-9890-4e0d-9938-4a704891a0f7)
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![image](https://github.com/Rohan-Navale/Roll-Dice-App/assets/108330627/bbf43a18-4b37-4af0-9888-3c901c0e3057)
+
+![image](https://github.com/Rohan-Navale/Roll-Dice-App/assets/108330627/a27a3edd-1d19-4a2b-a60c-1ddd13d30e7f)
 
 ## Features
 
